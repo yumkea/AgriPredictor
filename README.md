@@ -1,1 +1,1 @@
-电子科技大学“银杏果”项目--AgriPredictor
+电子科技大学“银杏果”项目---AgriPredictor
